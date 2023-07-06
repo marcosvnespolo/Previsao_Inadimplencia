@@ -1,5 +1,7 @@
 # Previsao_Inadimplencia 📉💸
 
+Projeto em Andamento
+
 Este repositório contém um projeto de Ciência de Dados desenvolvido com base em um conjunto de dados fornecido por uma empresa de cartão de crédito. O projeto tem como objetivo criar um modelo preditivo para a inadimplência de contas de cartão de crédito.
 
 # Descrição do Projeto 📝
